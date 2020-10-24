@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571613286314",
+    "firebase_url": "https://hninwarehouse.firebaseio.com",
+    "project_id": "hninwarehouse",
+    "storage_bucket": "hninwarehouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571613286314:android:cef3bcf00174e5c7bc65d3",
+        "android_client_info": {
+          "package_name": "com.example.hnin_warehouse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571613286314-109vpv6odbfoqn11hetladhq7utaurqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9p7SnH3hB1V9ioyK83Oe2VezVXufVHok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571613286314-109vpv6odbfoqn11hetladhq7utaurqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
